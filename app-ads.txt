@@ -1,3 +1,1 @@
-# Replace the line below with the exact line AdMob shows under Apps > View all apps > app-ads.txt,
-# then delete these comments. pub-XXXXXXXXXXXXXXXX is your AdMob publisher ID.
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-5149825015285091, DIRECT, f08c47fec0942fa0
